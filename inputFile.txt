@@ -1,0 +1,20 @@
+insert one 1
+insert two 2
+insert three 3
+insert negTwo -2
+insert four 4
+
+delete four
+
+retrieve one
+retrieve three
+
+submit + one two three
+submit + two two
+submit + two negTwo
+submit * one two three
+submit * three two
+submit / three two one
+submit / one two
+submit - three two one
+submit - two three
